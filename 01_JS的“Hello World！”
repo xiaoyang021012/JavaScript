@@ -1,0 +1,10 @@
+<script>
+#在浏览器的警告框中输出
+alert("Hello,World!");
+
+#在控制台输出
+console.log("Hello,World!");
+
+#在浏览器页面中输出
+document.write("Hello,World!");
+<script>
